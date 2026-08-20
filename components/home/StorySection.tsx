@@ -65,7 +65,7 @@ export default function StorySection() {
                 <div className="frame-centerpiece">
                   <span className="seal-established">ESTABLISHED</span>
                   <span className="seal-year">{STORE_INFO.establishedYear}</span>
-                  <span className="seal-location">HENDERSONVILLE, NC</span>
+                  <span className="seal-location">MABLETON, GA</span>
                   <div className="seal-tagline-box">
                     <span>&ldquo;A Warm Neighborhood Gathering Place for All&rdquo;</span>
                   </div>

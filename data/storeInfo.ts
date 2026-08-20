@@ -9,11 +9,11 @@ export const STORE_INFO = {
   email: "hello@hendersonscoffee.com",
   address: {
     street: "142 Historic Main Street",
-    city: "Hendersonville",
-    state: "NC",
-    zip: "28792",
-    fullAddress: "142 Historic Main Street, Hendersonville, NC 28792",
-    mapQuery: "142+Main+St+Hendersonville+NC+28792",
+    city: "Mableton",
+    state: "GA",
+    zip: "30133",
+    fullAddress: "142 Historic Main Street, Mableton, GA 30133",
+    mapQuery: "142+Historic+Main+St+Mableton+GA+30133",
   },
   socials: {
     instagram: "https://instagram.com/hendersonscoffee",

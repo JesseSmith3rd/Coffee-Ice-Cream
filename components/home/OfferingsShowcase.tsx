@@ -33,7 +33,7 @@ export default function OfferingsShowcase() {
           <h2 className="section-title">Artisan Coffee, Cones &amp; Confections</h2>
           <VintageDivider symbol="☕" maxWidth="260px" />
           <p className="section-subtitle">
-            Every batch of beans is roasted for balance and complexity, and every tub of ice cream is churned from fresh local cream. Pure, wholesome ingredients crafted with Southern pride.
+            Every batch of beans is roasted for balance and complexity, and every scoop of ice cream is crafted from fresh local cream. Pure, wholesome ingredients prepared with Southern pride.
           </p>
         </div>
 

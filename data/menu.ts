@@ -43,7 +43,7 @@ export const MENU_ITEMS: MenuItem[] = [
     id: "brown-butter-pecan",
     name: "Old-Fashioned Brown Butter Pecan",
     category: "ice-cream",
-    description: "Churned rich dairy ice cream infused with toasted brown butter and slow-candied southern pecans.",
+    description: "Rich dairy ice cream infused with toasted brown butter and slow-candied southern pecans.",
     price: "$4.95",
     flavorNotes: ["Brown Butter", "Candied Pecans", "Custard"],
     featured: true,

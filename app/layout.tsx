@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   keywords: ["Henderson's Coffee", "Ice Cream", "Espresso", "Historic Coffeehouse", "Artisan Coffee", "Neighborhood Gathering Place", "Mableton GA", "Mableton Coffee Shop"],
   openGraph: {
     title: "Henderson’s Coffee & Ice Cream | Historic Neighborhood Gathering Place",
-    description: "Handcrafted specialty coffee, small-batch churned ice cream, and cozy historic atmosphere.",
+    description: "Handcrafted specialty coffee, small-batch artisan ice cream, and cozy historic atmosphere.",
     url: "https://hendersonscoffee.com",
     siteName: "Henderson's Coffee & Ice Cream",
     locale: "en_US",

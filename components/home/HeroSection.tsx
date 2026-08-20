@@ -31,14 +31,14 @@ export default function HeroSection() {
         {/* Main Editorial Headline */}
         <h1 className="hero-title">
           Where Historic Warmth Meets <br />
-          <span className="hero-caramel-text">Artisan Coffee &amp; Churned Ice Cream</span>
+          <span className="hero-caramel-text">Artisan Coffee &amp; Handcrafted Ice Cream</span>
         </h1>
 
         <VintageDivider symbol="✦" maxWidth="240px" />
 
         {/* Subtitle / Narrative */}
         <p className="hero-description">
-          Step off Main Street into our century-old brick sanctuary. Bask in the warm amber glow of vintage lighting, savor freshly pulled espresso, and enjoy slow-churned heirloom ice cream crafted for true Southern hospitality.
+          Step off Main Street into our century-old brick sanctuary. Bask in the warm amber glow of vintage lighting, savor freshly pulled espresso, and enjoy small-batch heirloom ice cream crafted for true Southern hospitality.
         </p>
 
         {/* Action Buttons */}
@@ -71,7 +71,7 @@ export default function HeroSection() {
             </div>
             <div className="pillar-text">
               <h4>Heirloom Creamery</h4>
-              <p>Hand-dipped churned Southern flavors</p>
+              <p>Hand-dipped small-batch Southern flavors</p>
             </div>
           </div>
 

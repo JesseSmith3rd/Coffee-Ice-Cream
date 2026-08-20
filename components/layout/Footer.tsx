@@ -18,7 +18,7 @@ export default function Footer() {
           <div className="footer-col brand-col">
             <HendersonLogo size="lg" showTagline={true} />
             <p className="footer-bio">
-              Handcrafting moments of warmth in the heart of our historic neighborhood. Where the rich aroma of fresh-roasted beans meets slow-churned Southern creamery tradition.
+              Handcrafting moments of warmth in the heart of our historic neighborhood. Where the rich aroma of fresh-roasted beans meets handcrafted Southern creamery tradition.
             </p>
             <div className="footer-social-badges">
               <Badge variant="gold" size="sm">#HendersonsCoffee</Badge>
@@ -82,7 +82,7 @@ export default function Footer() {
             <ul className="footer-links">
               <li><a href="#menu">Historic Blend Espresso</a></li>
               <li><a href="#menu">Single-Origin Slow Pour-Overs</a></li>
-              <li><a href="#menu">Small-Batch Churned Ice Cream</a></li>
+              <li><a href="#menu">Small-Batch Artisan Ice Cream</a></li>
               <li><a href="#menu">Signature Espresso Affogatos</a></li>
               <li><a href="#menu">Fresh Morning Bakery &amp; Brioche</a></li>
               <li><a href="#atmosphere">Walnut Community Tables</a></li>
